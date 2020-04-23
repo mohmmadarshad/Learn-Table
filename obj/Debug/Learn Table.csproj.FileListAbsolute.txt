@@ -1,0 +1,8 @@
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Learn Table\Learn Table\bin\Debug\Learn Table.exe
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Learn Table\Learn Table\bin\Debug\Learn Table.pdb
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Learn Table\Learn Table\obj\Debug\Learn Table.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Learn Table\Learn Table\obj\Debug\Learn_Table.Form1.resources
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Learn Table\Learn Table\obj\Debug\Learn_Table.Properties.Resources.resources
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Learn Table\Learn Table\obj\Debug\Learn Table.csproj.GenerateResource.Cache
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Learn Table\Learn Table\obj\Debug\Learn Table.exe
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Learn Table\Learn Table\obj\Debug\Learn Table.pdb
